@@ -1,0 +1,13 @@
+{
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./new",
+        "-p",
+        "test_*.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true,
+    "python.pythonPath": "C:\\Users\\Andela Uganda\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
+}
